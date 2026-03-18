@@ -1,0 +1,52 @@
+# Java Semester Programs
+
+## 📌 Overview
+
+This repository contains a collection of Java programs developed as part of my semester coursework.
+The programs are designed to demonstrate fundamental and intermediate concepts in Java programming.
+
+## 🎯 Objectives
+
+* Strengthen understanding of core Java concepts
+* Practice problem-solving using Java
+* Build a solid foundation in object-oriented programming
+* Prepare for academic exams and practical assessments
+
+## 🧠 Topics Covered
+
+* Arrays and Strings
+* Object-Oriented Programming (OOP)
+* File Handling
+* Exception Handling
+* Collections Framework
+* Basic Mini Projects
+
+## 📂 Folder Structure
+
+Each folder contains programs related to a specific topic:
+
+* `Program-01-Arrays` → Array-based problems
+* `Program-02-Strings` → String manipulation programs
+* `Program-03-OOP` → Classes, objects, inheritance, polymorphism
+* `Program-04-File-Handling` → Reading and writing files
+* `Program-05-Exception-Handling` → Error handling techniques
+* `Program-06-Collections` → List, Set, Map implementations
+* `Program-07-Mini-Projects` → Small practical applications
+
+## 🛠 Technologies Used
+
+* Java (JDK 8 or above)
+* IDE: IntelliJ IDEA / Eclipse / VS Code
+
+## 👨‍💻 Author
+
+PROSPERITY
+Computer Science Student
+
+## 📌 Note
+
+These programs are created for academic learning purposes and may be improved over time as I continue to learn and grow in Java development.
+
+---
+
+⭐ Feel free to explore and learn from these programs!
